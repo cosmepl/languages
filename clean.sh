@@ -4,5 +4,4 @@ rm jvm/code.class
 rm -r rust/target
 rm -rf kotlin/code.jar
 rm dart/code
-rm -rf csharp-aot
-rm -rf csharp
+rm zig/code
